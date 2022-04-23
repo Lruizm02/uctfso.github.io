@@ -35,3 +35,10 @@ Instruction
 	# Only apply if the file already exist in the stage.
 	git commit -a -m "message"
 ``` 
+
+7. Push to origin
+```sh 
+git push origin -u {branch_name}
+# origin : reference the remote repo
+# -u: force the branch creation
+``` 
