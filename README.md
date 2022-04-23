@@ -1,8 +1,11 @@
 # Trabajo Final
 
 **Materia**: Sistemas Operativos
+
 **Universidad**: Univeristaria de Colombia
+
 **Semestre**: Quinto
+
 
 | User | Branch |
 | ---- | ------ |
@@ -41,10 +44,3 @@ git push origin -u {branch_name}
 # origin : reference the remote repo
 # -u: force the branch creation
 ``` 
-
-```html
-<html>
-	<body>
-	</body>
-</html>
-```
