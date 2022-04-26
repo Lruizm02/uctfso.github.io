@@ -9,7 +9,7 @@
 
 | User | Branch |
 | ---- | ------ |
-|Leonardo Ruiz Mendoza |	(Master) |
+|Leonardo Ruiz Mendoza |	(Branch LRM)|
 |Wilson Duran Ortiz    |	(Branch WDO)|
 |Oscar Gil Caviedes    |        (Branch OGC)|
 |Danial Castro Mora    |	(Branch DCM)|
@@ -23,7 +23,6 @@
 ```sh
 git pull origin {branch_name}
 ```
-
 4. optional-2 - guaratee that latest changes
 ```sh
 git pull origin main  
